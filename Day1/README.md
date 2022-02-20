@@ -1,4 +1,5 @@
 `g++ hello.cpp`
+
 Initially it gave following output. I am seeing this for first time.
 
 ```
@@ -10,6 +11,7 @@ clang: error: linker command failed with exit code 1 (use -v to see invocation)
 ```
 
 `g++ hello.cpp -o hello`
+
 Using this compiles the program and generates an executable `hello`
 
 It can be run using
