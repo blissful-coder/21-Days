@@ -23,4 +23,7 @@ I ran the first command again: `g++ hello.cpp`
 
 This time it generated a default executable `a.out`
 
-> Different searches are giving different answers. spelling checks, to compiler options -c. I am also assuming this is something to do with the way compiler geneerates class file.
+> Different searches are giving different answers. spelling checks, to compiler options -c. I am also assuming this is something to do with the way compiler generates class file.
+
+
+I am now reading the book `Algorithms in C++, Parts 1-4: Fundamentals, Data Structure, Sorting, Searching`
